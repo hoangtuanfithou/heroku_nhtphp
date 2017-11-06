@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "P82S49663G.jp.kocotoro.app.ios.run",
-				"paths": ["/app/*"]
+				"paths": ["*"]
 			}
 		]
 	}
